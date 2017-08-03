@@ -1,6 +1,6 @@
 <?php
 
-for ($i = 600;$i<=700;$i++){
+for ($i = 600;$i<=610;$i++){
 /*
 function get_contents() { */
   file_get_contents("https://sparks.org.uk/?p=" . $i);
