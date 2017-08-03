@@ -1,5 +1,5 @@
 <?php
-/*
+
 function get_top($url){
   file_get_contents($url);
 if(! (strpos("404", $http_response_header[0]) ){
@@ -11,7 +11,7 @@ echo $url . "<br />";
 
 }
    
-   */
+   
   echo "Hello!";
    
   /* for ($i = 1; $i <= 50; $i++){
