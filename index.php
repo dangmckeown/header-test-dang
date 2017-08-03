@@ -10,10 +10,12 @@ echo $url . "<br />";
    }
 
 }
+  echo "Hello!";
    
-   for ($i = 1; $i <= 50; $i++){
+  /* for ($i = 1; $i <= 50; $i++){
    
 	   get_top("https://www.sparks.org.uk/?p=".$i);
 	   
    }
    
+*/
